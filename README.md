@@ -1,0 +1,2 @@
+# LackOfCoffins
+Simple shump game
